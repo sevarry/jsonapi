@@ -41,7 +41,7 @@ print(data)
 print()
 
 # Task 3
-title = 'Security Interview Post'
+title = 'Testing Some Things'
 user_id = '500'
 body = 'This is an insertion test with a known API'
 r = c.add_post(title, user_id, body)
